@@ -9,7 +9,7 @@ The **🛡️ Surfshark** is one of the most feature-rich VPN services, trusted 
 
 <div align="center">
 
-[![Download Surfshark](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/free-surhshark-download)
+[![Download Surfshark](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/free-surhshark-download)
 
 </div>
 
@@ -214,7 +214,7 @@ One tool. Premium VPN. Unlimited devices. Zero cost.
 
 <div align="center">
 
-[![Download Surfshark](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/free-surhshark-download)
+[![Download Surfshark](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/free-surhshark-download)
 
 **Version 2026.97.1** — Premium VPN. Unlimited devices. Free forever.
 
